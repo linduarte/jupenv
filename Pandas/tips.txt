@@ -1,0 +1,7 @@
+pd.read_csv('name_of.file.csv', encoding='unicode_escape')
+
+
+
+!jt -t chesterish -nf firacode -T
+
+!jt -t chesterish -tf firacode -tfs 13 -ofs 10 -N -T
