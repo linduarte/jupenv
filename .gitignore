@@ -7,4 +7,5 @@ pyvenv.cfg
 requirements.txt
 .idea/
 share/
+etc/
 
