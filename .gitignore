@@ -8,4 +8,5 @@ requirements.txt
 .idea/
 share/
 etc/
+lottery/lottery_yancy.ipynb
 
