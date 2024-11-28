@@ -1,6 +1,5 @@
 # created by virtualenv automatically
-.vscode
-.vscode/settings.json
+.jup
 Lib/
 Scripts/
 pyvenv.cfg
